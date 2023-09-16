@@ -34,7 +34,7 @@ function App() {
                     content='Socialeact.. Latest version: 4.4.1, last published: a year ago. Start using react-share in your project by running `npm i react-share`. There are 357 other projects in the npm registry using react-share.'></meta>
                 <meta property='og:url' content='https://hubert2047.github.io/react-share/' />
             </Helmet>
-            <FacebookShareButton url='https://www.youtube.com/watch?v=PjpPJfolInU&t=555s'>
+            <FacebookShareButton url='https://hubert2047.github.io/react-share/'>
                 <FacebookIcon></FacebookIcon>
             </FacebookShareButton>
         </div>
