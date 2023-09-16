@@ -33,7 +33,7 @@ function App() {
                     content='Social media share buttons and share counts for React.. Latest version: 4.4.1, last published: a year ago. Start using react-share in your project by running `npm i react-share`. There are 357 other projects in the npm registry using react-share.'></meta>
                 <meta property='og:url' content={currentURL} />
             </Helmet>
-            <FacebookShareButton url='https://www.npmjs.com/package/react-share'>
+            <FacebookShareButton>
                 <FacebookIcon></FacebookIcon>
             </FacebookShareButton>
         </div>
