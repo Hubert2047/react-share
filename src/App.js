@@ -8,12 +8,19 @@ function App() {
         <div className='App'>
             <Helmet>
                 <title>react-share11</title>
+                <meta data-react-helmet='true' http-equiv='cleartype' content='on'></meta>
                 <meta name='description' content='hello'></meta>
+                <meta
+                    data-react-helmet='true'
+                    name='viewport'
+                    content='width=device-width,minimum-scale=1.0,initial-scale=1,user-scalable=yes'></meta>
                 <meta
                     property='og:image:secure_url'
                     content='https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png'
                 />
+                <meta data-react-helmet='true' property='og:site_name' content='npm'></meta>
                 <meta data-react-helmet='true' name='msapplication-TileColor' content='#cb3837'></meta>
+
                 <meta
                     data-react-helmet='true'
                     name='msapplication-TileImage'
