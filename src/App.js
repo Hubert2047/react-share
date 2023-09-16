@@ -12,6 +12,21 @@ function App() {
                     property='og:image'
                     content='https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png'
                 />
+                <meta data-react-helmet='true' name='msapplication-TileColor' content='#cb3837'></meta>
+                <meta
+                    data-react-helmet='true'
+                    name='msapplication-TileImage'
+                    content='https://static-production.npmjs.com/7a7ffabbd910fc60161bc04f2cee4160.png'></meta>
+                <meta
+                    data-react-helmet='true'
+                    name='msapplication-config'
+                    content='https://static-production.npmjs.com/668aac888e52ae13cac9cfd71fabd31f.xml'></meta>
+                <meta data-react-helmet='true' property='og:title' content='react-share'></meta>
+                <meta data-react-helmet='true' property='og:site_name' content='npm'></meta>
+                <meta
+                    data-react-helmet='true'
+                    name='keywords'
+                    content='react,component,react-component,social,media,social-media,share,button,count'></meta>
                 <meta
                     data-react-helmet='true'
                     property='og:description'
