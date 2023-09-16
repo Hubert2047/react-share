@@ -3,6 +3,7 @@ import { FacebookIcon, FacebookShareButton } from 'react-share'
 import './App.css'
 function App() {
     const currentURL = window.location.href
+    console.log(currentURL)
     return (
         <div className='App'>
             <Helmet>
