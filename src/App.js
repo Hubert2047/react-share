@@ -10,7 +10,7 @@ function App() {
                 <meta name='description' content='hello'></meta>
                 <meta
                     property='og:image'
-                    content='https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png'
+                    content='http://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png'
                 />
                 <meta data-react-helmet='true' name='msapplication-TileColor' content='#cb3837'></meta>
                 <meta
