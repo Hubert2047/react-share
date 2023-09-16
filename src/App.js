@@ -9,6 +9,7 @@ function App() {
                 <title>react-share11</title>
                 <meta http-equiv='cleartype' content='on'></meta>
                 <meta name='description' content='hello'></meta>
+                <meta property='og:type' content='website' />
                 <meta
                     name='viewport'
                     content='width=device-width,minimum-scale=1.0,initial-scale=1,user-scalable=yes'></meta>
