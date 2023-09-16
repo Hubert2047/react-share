@@ -18,7 +18,7 @@ function App() {
 
                 <meta
                     name='msapplication-TileImage'
-                    content='https://chat.openai.com/images/chatgpt-share-og.png'></meta>
+                    content='http://static-production.npmjs.com/7a7ffabbd910fc60161bc04f2cee4160.png'></meta>
                 <meta
                     name='msapplication-config'
                     content='http://static-production.npmjs.com/668aac888e52ae13cac9cfd71fabd31f.xml'></meta>
