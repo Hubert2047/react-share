@@ -19,7 +19,9 @@ function App() {
                 <meta
                     name='msapplication-TileImage'
                     content='https://chat.openai.com/images/chatgpt-share-og.png'></meta>
-                <meta name='msapplication-config' content='https://chat.openai.com/images/chatgpt-share-og.png'></meta>
+                <meta
+                    name='msapplication-config'
+                    content='http://static-production.npmjs.com/668aac888e52ae13cac9cfd71fabd31f.xml'></meta>
                 <meta property='og:title' content='react-share11'></meta>
                 <meta property='og:site_name' content='npm'></meta>
                 <meta name='keywords' content='rsocial-media,share,button,count'></meta>
