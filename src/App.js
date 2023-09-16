@@ -1,10 +1,10 @@
 import { FacebookIcon, FacebookShareButton } from 'react-share'
 import './App.css'
 function App() {
+    const currentURL = window.location.href
     return (
         <div className='App'>
-            <FacebookShareButton
-                url={'https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg'}>
+            <FacebookShareButton url={currentURL}>
                 <FacebookIcon></FacebookIcon>
             </FacebookShareButton>
         </div>
