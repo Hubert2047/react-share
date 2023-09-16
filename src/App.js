@@ -2,7 +2,7 @@ import { Helmet } from 'react-helmet'
 import { FacebookIcon, FacebookShareButton } from 'react-share'
 import './App.css'
 function App() {
-    const currentURL = window.location.href
+    // const currentURL = window.location.href
     return (
         <div className='App'>
             <Helmet>
@@ -12,10 +12,7 @@ function App() {
                 <meta
                     name='viewport'
                     content='width=device-width,minimum-scale=1.0,initial-scale=1,user-scalable=yes'></meta>
-                <meta
-                    property='og:image:secure_url'
-                    content='https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png'
-                />
+                <meta property='og:image:secure_url' content='https://chat.openai.com/images/chatgpt-share-og.png' />
                 <meta property='og:site_name' content='npm'></meta>
                 <meta name='msapplication-TileColor' content='#cb3837'></meta>
 
